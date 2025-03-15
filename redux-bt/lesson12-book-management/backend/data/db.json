@@ -1,0 +1,64 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Learn HTML",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "text": "Learn CSS",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "text": "Learn React",
+      "completed": false
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "name": "Lập trình HTML&CSS",
+      "price": 99000,
+      "createdAt": "2025-03-12",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Lập trình ReactJS",
+      "price": 199000,
+      "createdAt": "2025-03-13",
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "Lập trình Java",
+      "price": 1499000,
+      "createdAt": "2025-03-13",
+      "categoryId": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "CNTT"
+    },
+    {
+      "id": 2,
+      "name": "Kỹ năng"
+    },
+    {
+      "id": 3,
+      "name": "Văn học"
+    },
+    {
+      "id": 4,
+      "name": "Trinh thám"
+    },
+    {
+      "id": 5,
+      "name": "Tiểu thuyết"
+    }
+  ]
+}
